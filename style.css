@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+}
+
+.blog{
+    background-color:rgba(149, 13, 135, 0.5);
+    margin: 20px;
+    padding: 20px;
+    text-align:justify;
+    border: 2px solid rgb(110, 250, 67);
+    color: aliceblue;
+    box-sizing: border-box; 
+   
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+#orde{
+    margin-left: 30px;
+    list-style: none;
+}
